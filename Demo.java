@@ -3,7 +3,7 @@ public class Demo {
         int[] toReturn = new int[3];
         toReturn[0] = one;
         toReturn[1] = two;
-        //toReturn[2] = three;
+        toReturn[2] = three;
         return toReturn;
     }
 }
